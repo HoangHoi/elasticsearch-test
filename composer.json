@@ -1,0 +1,6 @@
+{
+    "name": "HoangHoi",
+    "require": {
+        "elasticsearch/elasticsearch": "~5.0"
+    }
+}
